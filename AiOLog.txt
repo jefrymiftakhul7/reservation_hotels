@@ -1,0 +1,24 @@
+Standard Programme
+Visual C++ 2008:                                                         	Fertig
+Visual C++ 2012:                                                         	Fertig
+Visual C++ 2013:                                                         	Fertig
+Visual C++ 2005 x64:                                                  	Fertig
+Visual C++ 2008 x64:                                                  	Fertig
+Visual C++ 2010 x64:                                                  	Fertig
+
+Microsoft .NET Framework
+.NET Framework 4.5.1:                                               	Fertig
+.NET Framework 1.1:                                                  	Fertig
+.NET Framework 1.1 - Cleanup:                                	Fertig
+
+Sonstige Runtimes
+Microsoft Visual J-Sharp 2.0 SE:                                	Fertig
+
+Standard Programme
+Adobe Flash Player - ActiveX:                                   	Fertig
+Adobe Flash Player - Plugin:                                     	Fertig
+Adobe Shockwave Player v12.0.7.148:                     	Fertig
+Microsoft Silverlight v5.1.20913.0 x64:                     	Fertig
+
+System Runtimes
+Allgemeine Runtime Dateien:                                   	Fertig
